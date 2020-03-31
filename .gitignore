@@ -142,6 +142,9 @@ cython_debug/
 media
 static
 
+# macos ds store
+.DS_Store
+
 # input data and models
 input/
 models/
